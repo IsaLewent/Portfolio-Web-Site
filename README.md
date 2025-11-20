@@ -17,7 +17,7 @@ Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 * **Frontend:** [React](https://reactjs.org/), [Vite](https://vitejs.dev/)
 * **Styling:** CSS3 ve Tailwind CSS
 * **Animasyonlar:** Framer Motion, GSAP vb. kütüphaneler
-* **Deploy:**  Vercel
+* **Deploy:**  
 
 ## ✨ Özellikler (Features)
 
