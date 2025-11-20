@@ -1,9 +1,9 @@
-import React, { useEffect, useState } from "react";
-import Navbar from "./sections/navbar";
+import { useEffect, useState } from "react";
+import Navbar from "./sections/Navbar";
 import Hero from "./sections/Hero";
 import About from "./sections/About";
 import Contact from "./sections/Contact";
-import Footer from "./sections/footer";
+import Footer from "./sections/Footer";
 import { useProgress } from "@react-three/drei";
 
 const App = () => {
