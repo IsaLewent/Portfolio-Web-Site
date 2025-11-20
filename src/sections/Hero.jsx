@@ -1,6 +1,6 @@
 import { Canvas, useFrame } from "@react-three/fiber";
 import { OrbitControls } from "@react-three/drei";
-import { Astronaut } from "../components/astronaut";
+import { Astronaut } from "../components/Astronaut";
 import HeroText from "../components/heroText";
 import ParallaxBackground from "../components/ParallaxBackground";
 import { easing } from "maath";
