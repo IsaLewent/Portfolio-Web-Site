@@ -2,17 +2,17 @@ const Footer = () => {
   const mySocials = [
     {
       href: "https://www.instagram.com/isalewent/",
-      icon: "public/assets/socials/instagram.svg",
+      icon: "/assets/socials/instagram.svg",
       name: "Instagram",
     },
     {
       href: "https://linkedin.com",
-      icon: "public/assets/socials/linkedIn.svg",
+      icon: "/assets/socials/linkedIn.svg",
       name: "LinkedIn",
     },
     {
       href: "https://whatsapp.com",
-      icon: "public/assets/socials/whatsApp.svg",
+      icon: "/assets/socials/whatsApp.svg",
       name: "whatsapp",
     },
   ];
